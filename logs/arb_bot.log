@@ -1,0 +1,90 @@
+2026-03-03 03:23:56 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:23:58 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:00 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:02 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:04 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:06 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:08 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:10 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:12 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:14 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:16 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:18 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:20 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:22 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:24 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:26 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:28 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:30 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:32 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:34 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:36 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:38 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:40 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:42 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:44 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:46 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:48 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:50 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:52 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:54 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:24:56 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:24:58 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:00 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:02 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:04 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:06 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:08 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:10 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:12 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:14 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:16 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:18 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:20 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:22 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:24 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:26 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:28 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:30 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:32 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:34 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:36 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:38 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:40 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:42 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:44 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:46 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:48 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:50 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:52 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:54 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:25:56 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:25:58 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:00 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:02 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:04 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:06 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:08 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:10 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:12 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:14 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:16 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:18 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:20 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:22 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:24 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:26 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:28 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:30 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:32 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:34 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:36 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:38 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:40 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:42 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:44 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:46 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:48 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:50 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
+2026-03-03 03:26:52 INFO es_spy_arb Connecting to IB 127.0.0.1:7497 clientId=7
+2026-03-03 03:26:54 WARNING es_spy_arb IB connect failed: [Errno 10061] Connect call failed ('127.0.0.1', 7497); retrying in 2.0s
